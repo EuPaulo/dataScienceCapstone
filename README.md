@@ -6,6 +6,9 @@ Check the Word Predictor app at
 
 https://paulomiramor.shinyapps.io/wordPredictor/
 
+Check the slide deck:
+
+http://rpubs.com/paulomiramor/302847
 
 More on the Data Science Specialization:
 

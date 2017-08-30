@@ -38,9 +38,9 @@ shinyUI(fluidPage(
                  tags$body('To use it, just insert any text in english in the text box
                            and wait for a prediction of the next word on the tab App.'),
                  tags$h3('Additional information'),
-                 
-                 tags$h3('Source code')
-                 
+                 tags$a('Find out more about this app in this slide deck', href = 'http://rpubs.com/paulomiramor/302847'),
+                 tags$h3('Source code'),
+                 tags$a('Check the source code here', href = 'https://github.com/EuPaulo/dataScienceCapstone')
         )
       )
     )
