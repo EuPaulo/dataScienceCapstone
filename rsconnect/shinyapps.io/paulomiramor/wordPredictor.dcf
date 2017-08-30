@@ -1,0 +1,13 @@
+name: wordPredictor
+title: wordPredictor
+username:
+account: paulomiramor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 208627
+bundleId: 959690
+url: https://paulomiramor.shinyapps.io/wordPredictor/
+when: 1504055120.8737
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: orderedNgrams4.rds|orderedNgrams5.rds|text.rds
